@@ -1,5 +1,7 @@
 # project_build_portifolio
 
+This project contains files(HTML,CSS,js) that are used for designing frontend that is similar to the design provided by the design mockup pdf document.
+
 ## Steps for installation
 1. Copy the repository... "git clone https://github.com/cshekhar1337/project_build_portifolio"
 2. Install npm in your computer
